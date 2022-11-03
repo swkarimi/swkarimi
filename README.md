@@ -10,7 +10,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60" height="48" alt="Bootstrap" />
 </p>
 
-#### Familiar
+#### Familiar With
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="33" height="36" alt="Python" />
 <img src="https://www.svgrepo.com/show/255832/sql.svg" width="36" height="36" alt="SQL" />
