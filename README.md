@@ -7,7 +7,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="48" height="48" alt="HTML5" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Devicon-css3-plain.svg" width="48" height="48" alt="CSS3" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60" height="48" alt="Bootstrap" />
 </p>
 
 #### Familiar With
