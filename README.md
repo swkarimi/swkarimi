@@ -46,7 +46,13 @@
   alt="Git"
   title="Git"
 />
-
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"
+  width="48"
+  height="48"
+  alt="NPM"
+  title="NPM"
+/>
 </p>
 
 #### Familiar With
