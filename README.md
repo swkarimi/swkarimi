@@ -53,8 +53,8 @@ I like psychology and teaching too.
     title="React"
   />
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/8/8e/20230404233502%21Nextjs-logo.svg/120px-Nextjs-logo.svg.png"
-    width="80"
+    src="https://camo.githubusercontent.com/839e314be35bbb7fec490435527a307f8d3cd78d3b39835f7510e0ae78e07935/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6578746a732e706e67"
+    width="48"
     height="48"
     alt="Next.js"
     title="Next.js"
