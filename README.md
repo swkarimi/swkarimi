@@ -49,7 +49,7 @@ I like psychology and teaching too.
   title="React"
 />
 <img
-  src="[https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/archive/8/8e/20230404233502%21Nextjs-logo.svg/120px-Nextjs-logo.svg.png"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/8/8e/20230404233502%21Nextjs-logo.svg/120px-Nextjs-logo.svg.png"
   width="80"
   height="48"
   alt="Next.js"
@@ -90,8 +90,8 @@ I like psychology and teaching too.
 #### Familiar With
 
 <p align="left">
-<img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" width="44" height="36" alt="Prisma" title="Prisma" />
+<img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" width="30" height="36" alt="Prisma" title="Prisma" />
 <img src="https://www.svgrepo.com/show/255832/sql.svg" width="36" height="36" alt="SQL" title="SQL" /> 
-<img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/96px-Postgresql_elephant.svg.png" width="36" height="36" alt="Postgresql" title="Postgresql" />
+<img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" width="36" height="36" alt="Postgresql" title="Postgresql" />
 </p>
 
