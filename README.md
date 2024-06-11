@@ -1,11 +1,6 @@
 ## Hi, I am Mohammad Karimi
 
-I have been a **frontend developer** for two years.<br />
-My professional career focuses on JavaScript, and Typescript.<br />
-I have quite good experience with React, Next.js and TailwindCss.<br />
-I am passionate about learning.<br />
-I am curious, enjoy from solving problems and math.<br />
-I like psychology and teaching too.
+I am an enthusiastic frontend developer with a passion for my work. I possess quite experience in Javascript, Typescript, React, and Next.js. Additionally, I have a natural curiosity and a deep enjoyment of problem-solving and mathematics. Alongside these technical interests, I also have a keen interest in psychology and teaching.
 
 ### Skills
 
